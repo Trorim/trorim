@@ -5,7 +5,7 @@
 --------------------------------------
 
 * 🖥️ Смотри мое портфолио [здесь](http://trorim.github.io/)
-* ✉️ Как связаться со мной : [![Telegram Badge](https://img.shields.io/badge/-slavahush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/slavahush)
+* ✉️ Связаться со мной : [![Telegram Badge](https://img.shields.io/badge/-slavahush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/slavahush)
 
 ### Skills
 
